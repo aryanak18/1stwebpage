@@ -1,2 +1,2 @@
 # 1stwebpage
-Just soem info 
+Just some info 
